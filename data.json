@@ -1,12 +1,12 @@
 {
   "profile": {
-    "name": "T U Z H I 🥀",
-    "username": "tuzhicodes",
-    "nickname": "TuZhi Codes",
+    "name": "STJOY",
+    "username": "STJOY12",
+    "nickname": "stjoy82",
     "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHXDSo69quh8j6IsBuJ4zIW4yyQ3EFhlqVCkdTCA20DFp5rQuBbcY9EXBWD_1ATGvH0XDRiDU4DRXQy12P9EpexR2lEzXDF9RmzMnn1ti8ZNGIBJPIllIqY9vcv4u5WFYiK4dgWN7N9TyW7oy7KLaVT8LIkRfnLBr5IAfhnPiNop-rQLkz5gNHcKhyl-QO/s1024/file_00000000df18720881374740bf634620.png",
     "banner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPe_P3kVBwu8Z5WdZxDRFgce6ylIBVIYRfcpuhGVrG9tShMJWerTMU8goc3OEtpA5Zs-P8Oh832Vb6en1BCM6rqMdT4jm9KtFZv3bgmOJYp6Knq6TQ_uV9pvDhA0XC2ponyB4rqztXOb2BEe41R3o77T8m5Lh6JS73H2_e5kOd7ND_SajWMswzwgmyqhtr/s736/229f824d9c404edc56b7fd1efe9a4df9_1.jpg",
     "status": {
-      "text": "I Am TuZhi Codes ♥️",
+      "text": "STJOY12",
       "type": "dnd"
     },
     "badges": [
@@ -28,7 +28,7 @@
       {
         "name": "Active Developer",
         "image": "https://cdn.discordapp.com/badge-icons/6bdc42827a38498929a4920da12695d9.png",
-        "color": "#2ecc71"
+        "color": "#FF0000"
       },
       {
         "name": "Early Supporter",
@@ -41,9 +41,14 @@
         "color": "#ff6b9d"
       },
       {
-        "name": "Server Boosting",
-        "image": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
+        "name": "STJOY",
+        "image": "https://cdn.discordapp.com/attachments/1543464526144606234/1551212304618496050/Screenshot_2026-09-20-18-43-39-88.jpg?ex=6ab12689&is=6aafd509&hm=79ce04b7ef96d1ce99fd2c9079ccde0d35907a8309062056b6577cf044b952f2&",
         "color": "#3498db"
+      },
+      {
+        "name": "STJOY",
+        "image": "https://cdn.discordapp.com/attachments/1543464526144606234/1551212304618496050/Screenshot_2026-09-20-18-43-39-88.jpg?ex=6ab12689&is=6aafd509&hm=79ce04b7ef96d1ce99fd2c9079ccde0d35907a8309062056b6577cf044b952f2&",
+        "color": "#FF0000"
       }
     ],
     "buttons": [
@@ -65,13 +70,13 @@
       {
         "name": "YouTube",
         "link": "https://youtube.com/@TuZhiCodes",
-        "icon": "fab fa-youtube"
+        "icon": "fab fa-aaYouTube"
       }
     ],
     "about": "🐰 A Dreamer Who Never Sleeps !! 🐰\nDeveloper | Gamer | Content Creator",
     "decoration": {
       "file": "heart-frame"
     },
-    "footer": "© 2026 Made with ❤️ TuZhi Codes"
+    "footer": "STJOY"
   }
 }
